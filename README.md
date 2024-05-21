@@ -7,13 +7,10 @@
 [![My Tools](https://skillicons.dev/icons?i=git,github,vscode,dotnet,linux,bash,vim,obsidian)](https://skillicons.dev)
 
 
-<br>
-
 ---
 ### My Stats:
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=jake158&show_icons=true&locale=en&layout=compact&theme=dark)
-
 ![Current streak](https://github-readme-streak-stats.herokuapp.com/?user=jake158&theme=dark)
 ---
 
